@@ -1,1 +1,6 @@
-
+opencv-python
+ultralytics
+numpy
+playsound
+sounddevice
+vosk
