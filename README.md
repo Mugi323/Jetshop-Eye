@@ -1,4 +1,5 @@
 # Jetshop Eye
+
 ## Overview
 
 This project integrates speech recognition and object detection into a Python application.
@@ -42,8 +43,10 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 ## Usage
 
 1. Start the application; it will prompt for voice input.
-2. Speak the name of an object you want to detect, such as "rice ball," "bread," or "ramen."
+2. **Speak in Japanese** and specify the name of an object you want to detect. The system recognizes the following keywords: **「おにぎり」 (rice ball), 「パン」 (bread), 「ラーメン」 (ramen), 「ボトル」 (bottle), and 「菓子」 (snack).**
 3. The camera will detect the specified object and provide voice guidance about its relative position.
+
+⚠ **Note**: This application **only recognizes Japanese**. Other languages are not supported.
 
 ## Configuration
 
@@ -84,3 +87,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - **Name**: [@Mugi323](https://github.com/Mugi323)
 - **GitHub**: [@Mugi323](https://github.com/Mugi323)
+
