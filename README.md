@@ -3,7 +3,7 @@
 ## Overview
 
 This project integrates speech recognition and object detection into a Python application.
-When a user specifies an object using voice commands, the system detects the object through the camera and provides audio feedback about its location.
+When a user specifies a product name using voice commands, the system detects the product through the camera and provides audio feedback about its location.
 
 This application utilizes Vosk for speech recognition and YOLOv8 for object detection.
 
