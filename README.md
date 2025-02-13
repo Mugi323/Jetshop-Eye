@@ -7,6 +7,8 @@ When a user specifies an object using voice commands, the system detects the obj
 
 This application utilizes Vosk for speech recognition and YOLOv8 for object detection.
 
+**This application is designed for Jetson devices and has been developed using Jetson Orin Nano.**
+
 ## Demo
 
 ![https://example.com/demo.gif](https://example.com/demo.gif)
@@ -15,6 +17,7 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 ### Requirements
 
+- Jetson Orin Nano
 - Python 3.8 or later
 - Required libraries
 
@@ -87,4 +90,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - **Name**: [@Mugi323](https://github.com/Mugi323)
 - **GitHub**: [@Mugi323](https://github.com/Mugi323)
-
