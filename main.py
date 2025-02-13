@@ -7,19 +7,19 @@ class Main:
         # Store the class specified by voice recognition
         self.selected_class = ""
         # Create an instance of VoiceRecognition
-        self.VoiceRecognizer = VoiceRecognition()
+        self.voice_recognizer = VoiceRecognition()
         # Create an instance of ObjectDetection
-        self.ObjectDetector = ObjectDetection()  
+        self.object_detector = ObjectDetection()  
 
     def run(self):
 
         # Execute voice recognition
-        self.VoiceRecognizer.voice_recognition()  
-        self.selected_class = self.VoiceRecognizer.recognized_keyword
+        self.voice_recognizer.voice_recognition()  
+        self.selected_class = self.voice_recognizer.recognized_keyword
         # print(self.VRec.recognized_keyword)   # Display the recognized keyword
 
         # Execute object detection
-        self.ObjectDetector.object_detection(self.selected_class)
+        self.object_detector.object_detection(self.selected_class)
 
 
 # Main function
