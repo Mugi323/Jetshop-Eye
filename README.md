@@ -82,5 +82,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-- **Name**:
-- **GitHub**: 
+- **Name**: [@Mugi323](https://github.com/Mugi323)
+- **GitHub**: [@Mugi323](https://github.com/Mugi323)
