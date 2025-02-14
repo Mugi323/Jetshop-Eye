@@ -5,7 +5,6 @@ import json
 from vosk import Model, KaldiRecognizer
 from playsound import playsound
 
-
 class VoiceRecognition:
     def __init__(self):
         # Specify model directory
