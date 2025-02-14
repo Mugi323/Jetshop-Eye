@@ -20,6 +20,8 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 - Jetson Orin Nano
 - Python 3.8 or later
 - Required libraries
+- Webcam
+- Headset with a microphone
 
 ### Setup Instructions
 
@@ -90,3 +92,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - **Name**: [@Mugi323](https://github.com/Mugi323)
 - **GitHub**: [@Mugi323](https://github.com/Mugi323)
+
