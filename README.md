@@ -18,6 +18,7 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 ### Requirements
 
 - Jetson Orin Nano
+- Ubuntu
 - Python 3.8 or later
 - Required libraries
 - Webcam
