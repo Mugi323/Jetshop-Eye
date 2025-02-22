@@ -11,7 +11,7 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 ## Demo
 
-![https://example.com/demo.gif](https://example.com/demo.gif)
+![Image](https://github.com/user-attachments/assets/ecefa50b-1beb-4815-89d2-93195be888a1)
 
 ## Installation
 
