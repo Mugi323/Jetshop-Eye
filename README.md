@@ -53,15 +53,6 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 ⚠ **Note**: This application **only recognizes Japanese**. Other languages are not supported.
 
-## Configuration
-
-Create a `.env` file and define the following variables:
-
-```
-YOLO_MODEL_PATH=./models/YOLOv8n.pt
-VOSK_MODEL_PATH=./models/vosk-japanese-small
-```
-
 ## Directory Structure
 
 ```
