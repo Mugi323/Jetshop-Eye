@@ -50,10 +50,6 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 ⚠ **Note**: This application **only recognizes Japanese**. Other languages are not supported.
 
-## Demo
-
-![Image](https://github.com/user-attachments/assets/ecefa50b-1beb-4815-89d2-93195be888a1)
-
 ## Directory Structure
 
 ```
@@ -68,6 +64,10 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 ┣ 📜 requirements.txt
 ┣ 📜 README.md
 ```
+
+## Demo
+
+![Image](https://github.com/user-attachments/assets/ecefa50b-1beb-4815-89d2-93195be888a1)
 
 ## Contribution
 
