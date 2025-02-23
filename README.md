@@ -9,10 +9,6 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 **This application is designed for Jetson devices and has been developed using Jetson Orin Nano.**
 
-## Demo
-
-![Image](https://github.com/user-attachments/assets/ecefa50b-1beb-4815-89d2-93195be888a1)
-
 ## Installation
 
 ### Requirements
@@ -53,6 +49,10 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 3. The camera will detect the specified object and provide voice guidance about its relative position.
 
 ⚠ **Note**: This application **only recognizes Japanese**. Other languages are not supported.
+
+## Demo
+
+![Image](https://github.com/user-attachments/assets/ecefa50b-1beb-4815-89d2-93195be888a1)
 
 ## Directory Structure
 
