@@ -44,9 +44,10 @@ This application utilizes Vosk for speech recognition and YOLOv8 for object dete
 
 ## Usage
 
-1. Start the application; it will prompt for voice input.
-2. **Speak in Japanese** and specify the name of an object you want to detect. The system recognizes the following keywords: **「おにぎり」 (rice ball), 「パン」 (bread), 「ラーメン」 (ramen), 「ボトル」 (bottle), and 「菓子」 (snack).**
-3. The camera will detect the specified object and provide voice guidance about its relative position.
+1. Connect the webcam and headset to Jetson. The user must wear the headset and wear the webcam around his/her neck.
+2. Start the application; it will prompt for voice input.
+3. **Speak in Japanese** and specify the name of an object you want to detect. The system recognizes the following keywords: **「おにぎり」 (rice ball), 「パン」 (bread), 「ラーメン」 (ramen), 「ボトル」 (bottle), and 「菓子」 (snack).**
+4. The camera will detect the specified object and provide voice guidance about its relative position.
 
 ⚠ **Note**: This application **only recognizes Japanese**. Other languages are not supported.
 
